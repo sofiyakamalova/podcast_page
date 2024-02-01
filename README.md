@@ -1,16 +1,8 @@
 # ozyndy_damyt
 
-A new Flutter project.
+This is a project of one page of from entire project
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![11](https://github.com/sofiyakamalova/podcast_page/assets/116626295/dd050769-ca09-46e7-8c0a-0e624e6df405)
+![12](https://github.com/sofiyakamalova/podcast_page/assets/116626295/7af258cd-c9a9-4f06-b8f7-569637037330)
+![13](https://github.com/sofiyakamalova/podcast_page/assets/116626295/85e50cf4-016f-48fe-88f8-631034d13d48)
+![14](https://github.com/sofiyakamalova/podcast_page/assets/116626295/691bc58d-c4d0-4fa4-b41d-824442e3b75d)
